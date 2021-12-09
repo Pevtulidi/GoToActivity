@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoToActivity</string>
+    <string name="text_actTwo">This is Activity Two</string>
+    <string name="text_main">Go To Activity Two</string>
+</resources>
